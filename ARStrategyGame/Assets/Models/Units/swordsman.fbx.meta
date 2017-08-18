@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: f33c7f5c390155e448bdba0afff1896a
+timeCreated: 1502254402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankleB_L
+    100002: ankleB_L_end
+    100004: ankleB_R
+    100006: ankleB_R_end
+    100008: ankleF_L
+    100010: ankleF_L_end
+    100012: ankleF_R
+    100014: ankleF_R_end
+    100016: arm_L
+    100018: arm_R
+    100020: Center
+    100022: center
+    100024: chest
+    100026: Cube
+    100028: Cube.001
+    100030: Cube.002
+    100032: elbow_L
+    100034: elbow_R
+    100036: Gian
+    100038: head
+    100040: head_end
+    100042: hip1B_L
+    100044: hip1B_R
+    100046: hip2B_L
+    100048: hip2B_R
+    100050: hip3B_L
+    100052: hip3B_R
+    100054: Horse
+    100056: horse_head
+    100058: horse_head_end
+    100060: kneeB_L
+    100062: kneeB_R
+    100064: kneeF_L
+    100066: kneeF_R
+    100068: leg_L
+    100070: leg_L_end
+    100072: leg_R
+    100074: leg_R_end
+    100076: legB_L
+    100078: legB_R
+    100080: legF_L
+    100082: legF_R
+    100084: shoulder1F_L
+    100086: shoulder1F_R
+    100088: shoulder2F_L
+    100090: shoulder2F_R
+    100092: shoulder3F_L
+    100094: shoulder3F_R
+    100096: spine1
+    100098: spine2
+    100100: spine3
+    100102: spine4
+    100104: spine5
+    100106: spine6
+    100108: spine7
+    100110: //RootNode
+    100112: tail1
+    100114: tail2
+    100116: tail2_end
+    100118: thigh_L
+    100120: thigh_R
+    100122: wrist_L
+    100124: wrist_L_end
+    100126: wrist_R
+    100128: wrist_R_end
+    100130: Cube_001
+    100132: Cube_002
+    400000: ankleB_L
+    400002: ankleB_L_end
+    400004: ankleB_R
+    400006: ankleB_R_end
+    400008: ankleF_L
+    400010: ankleF_L_end
+    400012: ankleF_R
+    400014: ankleF_R_end
+    400016: arm_L
+    400018: arm_R
+    400020: Center
+    400022: center
+    400024: chest
+    400026: Cube
+    400028: Cube.001
+    400030: Cube.002
+    400032: elbow_L
+    400034: elbow_R
+    400036: Gian
+    400038: head
+    400040: head_end
+    400042: hip1B_L
+    400044: hip1B_R
+    400046: hip2B_L
+    400048: hip2B_R
+    400050: hip3B_L
+    400052: hip3B_R
+    400054: Horse
+    400056: horse_head
+    400058: horse_head_end
+    400060: kneeB_L
+    400062: kneeB_R
+    400064: kneeF_L
+    400066: kneeF_R
+    400068: leg_L
+    400070: leg_L_end
+    400072: leg_R
+    400074: leg_R_end
+    400076: legB_L
+    400078: legB_R
+    400080: legF_L
+    400082: legF_R
+    400084: shoulder1F_L
+    400086: shoulder1F_R
+    400088: shoulder2F_L
+    400090: shoulder2F_R
+    400092: shoulder3F_L
+    400094: shoulder3F_R
+    400096: spine1
+    400098: spine2
+    400100: spine3
+    400102: spine4
+    400104: spine5
+    400106: spine6
+    400108: spine7
+    400110: //RootNode
+    400112: tail1
+    400114: tail2
+    400116: tail2_end
+    400118: thigh_L
+    400120: thigh_R
+    400122: wrist_L
+    400124: wrist_L_end
+    400126: wrist_R
+    400128: wrist_R_end
+    400130: Cube_001
+    400132: Cube_002
+    4300000: Cube
+    4300002: Cube.001
+    4300004: Cube.002
+    4300006: Cube_001
+    4300008: Cube_002
+    7400000: Gian|attack
+    7400002: Horse|attack
+    7400004: Horse|idle
+    7400006: Default Take
+    7400008: attack
+    7400010: idle
+    7400012: moving
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube.001
+    13700004: Cube.002
+    13700006: Cube_001
+    13700008: Cube_002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Gian
+        weight: 1
+      - path: Gian/center
+        weight: 1
+      - path: Gian/center/chest
+        weight: 1
+      - path: Gian/center/chest/arm_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L/wrist_L
+        weight: 1
+      - path: Gian/center/chest/arm_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R/wrist_R
+        weight: 1
+      - path: Gian/center/chest/head
+        weight: 1
+      - path: Gian/center/thigh_L
+        weight: 1
+      - path: Gian/center/thigh_L/leg_L
+        weight: 1
+      - path: Gian/center/thigh_R
+        weight: 1
+      - path: Gian/center/thigh_R/leg_R
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: Horse/Center
+        weight: 1
+      - path: Horse/Center/spine7
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L/ankleB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R/ankleB_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L/ankleF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R/ankleF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1/horse_head
+        weight: 1
+      - path: Horse/Center/spine7/tail1
+        weight: 1
+      - path: Horse/Center/spine7/tail1/tail2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: attack
+      firstFrame: -1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Gian
+        weight: 1
+      - path: Gian/center
+        weight: 1
+      - path: Gian/center/chest
+        weight: 1
+      - path: Gian/center/chest/arm_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L/wrist_L
+        weight: 1
+      - path: Gian/center/chest/arm_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R/wrist_R
+        weight: 1
+      - path: Gian/center/chest/head
+        weight: 1
+      - path: Gian/center/thigh_L
+        weight: 1
+      - path: Gian/center/thigh_L/leg_L
+        weight: 1
+      - path: Gian/center/thigh_R
+        weight: 1
+      - path: Gian/center/thigh_R/leg_R
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: Horse/Center
+        weight: 1
+      - path: Horse/Center/spine7
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L/ankleB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R/ankleB_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L/ankleF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R/ankleF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1/horse_head
+        weight: 1
+      - path: Horse/Center/spine7/tail1
+        weight: 1
+      - path: Horse/Center/spine7/tail1/tail2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: -1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Gian
+        weight: 1
+      - path: Gian/center
+        weight: 1
+      - path: Gian/center/chest
+        weight: 1
+      - path: Gian/center/chest/arm_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L/wrist_L
+        weight: 1
+      - path: Gian/center/chest/arm_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R/wrist_R
+        weight: 1
+      - path: Gian/center/chest/head
+        weight: 1
+      - path: Gian/center/thigh_L
+        weight: 1
+      - path: Gian/center/thigh_L/leg_L
+        weight: 1
+      - path: Gian/center/thigh_R
+        weight: 1
+      - path: Gian/center/thigh_R/leg_R
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: Horse/Center
+        weight: 1
+      - path: Horse/Center/spine7
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L/ankleB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R/ankleB_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L/ankleF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R/ankleF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1/horse_head
+        weight: 1
+      - path: Horse/Center/spine7/tail1
+        weight: 1
+      - path: Horse/Center/spine7/tail1/tail2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: moving
+      takeName: moving
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Gian
+        weight: 1
+      - path: Gian/center
+        weight: 1
+      - path: Gian/center/chest
+        weight: 1
+      - path: Gian/center/chest/arm_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L
+        weight: 1
+      - path: Gian/center/chest/arm_L/elbow_L/wrist_L
+        weight: 1
+      - path: Gian/center/chest/arm_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R
+        weight: 1
+      - path: Gian/center/chest/arm_R/elbow_R/wrist_R
+        weight: 1
+      - path: Gian/center/chest/head
+        weight: 1
+      - path: Gian/center/thigh_L
+        weight: 1
+      - path: Gian/center/thigh_L/leg_L
+        weight: 1
+      - path: Gian/center/thigh_R
+        weight: 1
+      - path: Gian/center/thigh_R/leg_R
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: Horse/Center
+        weight: 1
+      - path: Horse/Center/spine7
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_L/hip2B_L/hip3B_L/legB_L/kneeB_L/ankleB_L
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R
+        weight: 1
+      - path: Horse/Center/spine7/hip1B_R/hip2B_R/hip3B_R/legB_R/kneeB_R/ankleB_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_L/shoulder2F_L/shoulder3F_L/legF_L/kneeF_L/ankleF_L
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/shoulder1F_R/shoulder2F_R/shoulder3F_R/legF_R/kneeF_R/ankleF_R
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1
+        weight: 1
+      - path: Horse/Center/spine7/spine6/spine5/spine4/spine3/spine2/spine1/horse_head
+        weight: 1
+      - path: Horse/Center/spine7/tail1
+        weight: 1
+      - path: Horse/Center/spine7/tail1/tail2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

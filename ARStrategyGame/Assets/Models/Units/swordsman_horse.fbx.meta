@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 1bf8e97280b914840b44c93583284ba1
+timeCreated: 1502260434
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankleB_L
+    100002: ankleB_L_end
+    100004: ankleB_R
+    100006: ankleB_R_end
+    100008: ankleF_L
+    100010: ankleF_L_end
+    100012: ankleF_R
+    100014: ankleF_R_end
+    100016: Center
+    100018: Cube.001
+    100020: Cube.002
+    100022: hip1B_L
+    100024: hip1B_R
+    100026: hip2B_L
+    100028: hip2B_R
+    100030: hip3B_L
+    100032: hip3B_R
+    100034: Horse
+    100036: horse_head
+    100038: horse_head_end
+    100040: kneeB_L
+    100042: kneeB_R
+    100044: kneeF_L
+    100046: kneeF_R
+    100048: legB_L
+    100050: legB_R
+    100052: legF_L
+    100054: legF_R
+    100056: shoulder1F_L
+    100058: shoulder1F_R
+    100060: shoulder2F_L
+    100062: shoulder2F_R
+    100064: shoulder3F_L
+    100066: shoulder3F_R
+    100068: spine1
+    100070: spine2
+    100072: spine3
+    100074: spine4
+    100076: spine5
+    100078: spine6
+    100080: spine7
+    100082: //RootNode
+    100084: tail1
+    100086: tail2
+    100088: tail2_end
+    400000: ankleB_L
+    400002: ankleB_L_end
+    400004: ankleB_R
+    400006: ankleB_R_end
+    400008: ankleF_L
+    400010: ankleF_L_end
+    400012: ankleF_R
+    400014: ankleF_R_end
+    400016: Center
+    400018: Cube.001
+    400020: Cube.002
+    400022: hip1B_L
+    400024: hip1B_R
+    400026: hip2B_L
+    400028: hip2B_R
+    400030: hip3B_L
+    400032: hip3B_R
+    400034: Horse
+    400036: horse_head
+    400038: horse_head_end
+    400040: kneeB_L
+    400042: kneeB_R
+    400044: kneeF_L
+    400046: kneeF_R
+    400048: legB_L
+    400050: legB_R
+    400052: legF_L
+    400054: legF_R
+    400056: shoulder1F_L
+    400058: shoulder1F_R
+    400060: shoulder2F_L
+    400062: shoulder2F_R
+    400064: shoulder3F_L
+    400066: shoulder3F_R
+    400068: spine1
+    400070: spine2
+    400072: spine3
+    400074: spine4
+    400076: spine5
+    400078: spine6
+    400080: spine7
+    400082: //RootNode
+    400084: tail1
+    400086: tail2
+    400088: tail2_end
+    2300000: Cube.001
+    3300000: Cube.001
+    4300000: Cube.001
+    4300002: Cube.002
+    7400000: Horse|attack
+    9500000: //RootNode
+    13700000: Cube.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
